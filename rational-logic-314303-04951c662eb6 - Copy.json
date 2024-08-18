@@ -1,0 +1,6 @@
+{
+  "type": "service_account",
+  "project_id": "rational-logic-314303",
+  "private_key_id": "<your private key id>",
+  "private_key": "<your private key>"
+}
